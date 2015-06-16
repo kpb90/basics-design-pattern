@@ -1,0 +1,6 @@
+# basics-design-pattern
+http://www.ozon.ru/context/detail/id/5648968/
+http://habrahabr.ru/post/136766/ - паттерны в метафорах
+http://habrahabr.ru/post/59005/ - антипаттерны
+http://habrahabr.ru/post/260201/
+http://sergeyteplyakov.blogspot.ru/2013/10/articles.html#design_main
